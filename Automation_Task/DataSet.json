@@ -1,0 +1,18 @@
+{
+  "Login": {
+    "Email": "amlosman123123@gmail.com",
+    "Password": "Amal123123"
+  },
+  "Home": {
+    "PriceValue": "15"
+  },
+  "AddNewAddress": {
+    "FullName": "Amal Osman",
+    "MobileNumber": "01022159272",
+    "StreetName": "Test",
+    "BuildingName": "Test1",
+    "City": "10th of Ramadan City",
+    "District": "10th District",
+    "NearestLandmark": "Test1"
+  }
+}
